@@ -98,3 +98,5 @@ Practical exercises to reinforce GitHub administration concepts.
 - [How Defender for Cloud Apps helps protect your GitHub Enterprise environment | Microsoft Docs](https://docs.microsoft.com/en-us/defender-cloud-apps/protect-github)
 - [GitHub Workflow Guide](https://github.github.com/services-workflow-guide/#/)
 - [Removing sensitive data from a repository - GitHub Docs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
+
+- Lab04
