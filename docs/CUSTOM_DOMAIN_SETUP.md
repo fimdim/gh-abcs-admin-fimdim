@@ -23,11 +23,13 @@ Add the following A records for `fimdim.com`:
 
 ### Option 2: Using CNAME Record (For Subdomain)
 
-If using a subdomain like `www.fimdim.com`, add a CNAME record:
+If using a subdomain like `www.fimdim.com`, add a CNAME record pointing to the GitHub Pages default domain:
 
 ```
 www.fimdim.com CNAME fimdim.github.io
 ```
+
+Note: `fimdim.github.io` is the default GitHub Pages URL for this repository (based on the GitHub username/organization).
 
 ## Enabling HTTPS
 
